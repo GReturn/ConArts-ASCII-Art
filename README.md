@@ -1,2 +1,2 @@
 # ConArts-ASCII-Art
-A project for a non-coding subject
+A project for a non-computer subject
